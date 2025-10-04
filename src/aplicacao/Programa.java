@@ -13,7 +13,6 @@ public class Programa {
 
         Scanner read = new Scanner(System.in);
         List<Pessoa> list = new ArrayList<>();
-        Pessoa pessoa;
 
         System.out.print("Insira o número de dividendos: ");
         int dividendos = read.nextInt();
